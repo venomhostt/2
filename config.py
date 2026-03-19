@@ -35,7 +35,7 @@ API_KEY = getenv("API_KEY", None) # youtube song api key, generate free key or b
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/https-github.com-venomhostt-2",
+    "https://github.com/venomhostt/2",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
